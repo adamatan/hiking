@@ -1,2 +1,2 @@
 # hiking
-Hiking trails tracks
+בדיקה לכתיבה עברית
