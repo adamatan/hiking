@@ -1,2 +1,2 @@
-# hiking
-בדיקה לכתיבה עברית
+# Hiking trails
+Content TBD.
